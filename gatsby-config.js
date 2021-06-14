@@ -28,7 +28,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#02aab0`,
         display: `standalone`,
-        icon: "src/images/nv-dev-logo-light.png",
+        icon: "src/images/my-dev-logo.png",
       },
     },
   ],
