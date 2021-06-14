@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: "portfolio-image.jpg",
   paragraphOne:
-    "Solution-driven and highly-collaborative Web Developer, who is ardent about integrating libraries to build incredible projects and web applications. Excelling in using technologies such as JavaScript, React, Flask, Python, SQL, and REST APIs. Through my work history, you can expect a proven ability in organization, efficiency, and teamwork.",
+    "Solution-driven and highly-collaborative Full-Stack Developer, who is ardent about integrating libraries to build incredible projects and web applications. Excelling in using technologies such as Angular, React, JavaScript, C#, .NET, SQL, MongoDB, Node, ExpressJS, HTML5, CSS3 and REST APIs. Through my work history, you can expect a proven ability in organization, efficiency, and teamwork.",
   paragraphTwo:
     "My entire life, I have been a tech-savvy extraordinaire in various sectors of technology.",
   paragraphThree:

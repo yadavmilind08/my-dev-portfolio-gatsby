@@ -41,7 +41,7 @@ function Resume() {
           </span>
 
           <hr />
-          <p className="footer__text">© {new Date().getFullYear()} NizaVera</p>
+          <p className="footer__text">© {new Date().getFullYear()} Milind Yadav</p>
         </Container>
       </footer>
     </div>
