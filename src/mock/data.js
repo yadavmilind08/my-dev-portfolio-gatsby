@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: "user-places-app-image.png",
+    img: "recipes-app-image.png",
     title: "Recipes Shopping App",
     info: "MEAN Stack app created to shop required ingredients for respective recipes. With the help of this app we can create new recipe, upload image of recipe, add ingredients required for recipe. Also we can mentain shopping list, fetch data and save data to database.",
     info2: "Technologies used: Angular, Node.JS, Express.JS, MongoDB",
