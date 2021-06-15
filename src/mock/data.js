@@ -38,15 +38,15 @@ export const projectsData = [
     url: "https://ng-recipes-shopping-app.web.app/",
     repo: "https://github.com/yadavmilind08/recipes-shopping-app", // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: "user-places-app-image.png",
-    title: "User Places App",
-    info: "MERN Stack app created to add visited places under respective user where we can edit, delete and view places along with edit",
-    info2: "Technologies used: React, Node.JS, Express.JS, MongoDB",
-    url: "https://mern-places-frontend-app.web.app/",
-    repo: "https://github.com/yadavmilind08/user-places-app", // if no repo, the button will not show up
-  }
+  // {
+  //   id: nanoid(),
+  //   img: "user-places-app-image.png",
+  //   title: "User Places App",
+  //   info: "MERN Stack app created to add visited places under respective user where we can edit, delete and view places along with edit",
+  //   info2: "Technologies used: React, Node.JS, Express.JS, MongoDB",
+  //   url: "https://mern-places-frontend-app.web.app/",
+  //   repo: "https://github.com/yadavmilind08/user-places-app", // if no repo, the button will not show up
+  // }
 ];
 
 // CONTACT DATA
