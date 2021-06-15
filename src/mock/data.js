@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: "portfolio-image.jpg",
   paragraphOne:
-    "Solution-driven and highly-collaborative Full-Stack Developer, who is ardent about integrating libraries to build incredible projects and web applications. Excelling in using technologies such as Angular, React, JavaScript, C#, .NET, SQL, MongoDB, Node, ExpressJS, HTML5, CSS3 and REST APIs. Through my work history, you can expect a proven ability in organization, efficiency, and teamwork.",
+    "Solution-driven and highly-collaborative Full-Stack Developer, who is passionate about integrating libraries to build incredible projects and web applications. Proficient in using technologies such as Angular, React, JavaScript, C#, .NET, SQL, MongoDB, Node, ExpressJS, HTML5, CSS3 and REST APIs. Through my work history, you can expect a proven ability in organization, efficiency, and teamwork.",
   paragraphTwo:
-    "My entire life, I have been a tech-savvy extraordinaire in various sectors of technology.",
+    "I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and for the success of organization.",
   paragraphThree:
-    "My passion for people and technology has inspired me to enable the full potential of humans and the internet. Continual education and keeping up with the latest technology trends are both very important to me. Check out my Github as I regularly upload projects!",
+    "Continual education and keeping up with the latest technology trends are both very important to me. Check out my Github as I regularly upload projects!",
   resume: "Resume", // if no resume, the button will not show up
 };
 
