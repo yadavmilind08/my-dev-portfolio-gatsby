@@ -31,15 +31,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: "recipes-shopping-app-image.png",
-    title: "Recipes Shopping App",
-    info: "MEAN Stack app created to shopp required ingredients for respective recipes.",
-    info2: "Technologies used: Angular, Node.JS, Express.JS, MongoDB",
-    url: "https://ng-recipes-shopping-app.web.app/",
-    repo: "https://github.com/yadavmilind08/recipes-shopping-app", // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: "user-places-app-image.png",
     title: "User Places App",
     info: "MERN Stack app created to add visited places under respective user where we can edit, delete and view places along with edit",
@@ -47,6 +38,15 @@ export const projectsData = [
     url: "https://mern-places-frontend-app.web.app/",
     repo: "https://github.com/yadavmilind08/user-places-app", // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: "recipes-shopping-app-image.png",
+    title: "Recipes Shopping App",
+    info: "MEAN Stack app created to shopp required ingredients for respective recipes.",
+    info2: "Technologies used: Angular, Node.JS, Express.JS, MongoDB",
+    url: "https://ng-recipes-shopping-app.web.app/",
+    repo: "https://github.com/yadavmilind08/recipes-shopping-app", // if no repo, the button will not show up
+  }
 ];
 
 // CONTACT DATA
