@@ -2,12 +2,14 @@
 
 ## Features
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout built with React\
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
-⚡️ Fully Responsive\
-⚡️ Configurable color scheme\
-⚡️ Easy site customization
+- Modern UI Design + Reveal Animations\
+- One Page Layout built with React\
+- Styled with Bootstrap v4.3 + Custom SCSS\
+- Fully Responsive\
+- Configurable color scheme\
+- Easy site customization
+
+To view a demo example, [click here](https://milindyadav.netlify.app/)
 
 ## Technologies used 🛠️
 
